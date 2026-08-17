@@ -1,0 +1,355 @@
+{
+ "forecast": {
+  "kpi": "disponibilite",
+  "entity": "SITE_001",
+  "unite": "%",
+  "points": [
+   {
+    "t": "21/07",
+    "reel": 99.25,
+    "prevu": 98.98,
+    "bas": 97.21,
+    "haut": 100.64
+   },
+   {
+    "t": "22/07",
+    "reel": 99.3,
+    "prevu": 99.27,
+    "bas": 97.76,
+    "haut": 100.95
+   },
+   {
+    "t": "23/07",
+    "reel": 96.85,
+    "prevu": 98.94,
+    "bas": 97.37,
+    "haut": 100.45
+   },
+   {
+    "t": "24/07",
+    "reel": 99.29,
+    "prevu": 98.83,
+    "bas": 97.17,
+    "haut": 100.43
+   },
+   {
+    "t": "25/07",
+    "reel": 99.28,
+    "prevu": 99.3,
+    "bas": 97.53,
+    "haut": 100.99
+   },
+   {
+    "t": "26/07",
+    "reel": 99.21,
+    "prevu": 98.77,
+    "bas": 97.1,
+    "haut": 100.48
+   },
+   {
+    "t": "27/07",
+    "reel": 99.29,
+    "prevu": 98.88,
+    "bas": 97.27,
+    "haut": 100.55
+   },
+   {
+    "t": "28/07",
+    "reel": 99.28,
+    "prevu": 99.06,
+    "bas": 97.5,
+    "haut": 100.69
+   },
+   {
+    "t": "29/07",
+    "reel": 99.3,
+    "prevu": 99.35,
+    "bas": 97.57,
+    "haut": 100.97
+   },
+   {
+    "t": "30/07",
+    "reel": 99.26,
+    "prevu": 99.02,
+    "bas": 97.43,
+    "haut": 100.59
+   },
+   {
+    "t": "31/07",
+    "reel": 99.34,
+    "prevu": 98.91,
+    "bas": 97.23,
+    "haut": 100.59
+   },
+   {
+    "t": "01/08",
+    "reel": 99.28,
+    "prevu": 99.38,
+    "bas": 97.74,
+    "haut": 101.05
+   },
+   {
+    "t": "02/08",
+    "reel": 99.3,
+    "prevu": 98.85,
+    "bas": 97.26,
+    "haut": 100.39
+   },
+   {
+    "t": "03/08",
+    "reel": 99.25,
+    "prevu": 98.96,
+    "bas": 97.41,
+    "haut": 100.64
+   },
+   {
+    "t": "04/08",
+    "reel": 99.29,
+    "prevu": 99.14,
+    "bas": 97.59,
+    "haut": 100.8
+   },
+   {
+    "t": "05/08",
+    "reel": 99.3,
+    "prevu": 99.43,
+    "bas": 97.72,
+    "haut": 101.07
+   },
+   {
+    "t": "06/08",
+    "reel": 99.25,
+    "prevu": 99.1,
+    "bas": 97.48,
+    "haut": 100.76
+   },
+   {
+    "t": "07/08",
+    "reel": 99.28,
+    "prevu": 98.99,
+    "bas": 97.31,
+    "haut": 100.67
+   },
+   {
+    "t": "08/08",
+    "reel": 99.24,
+    "prevu": 99.46,
+    "bas": 97.78,
+    "haut": 101.01
+   },
+   {
+    "t": "09/08",
+    "reel": 99.31,
+    "prevu": 98.93,
+    "bas": 97.34,
+    "haut": 100.55
+   },
+   {
+    "t": "10/08",
+    "reel": 96.34,
+    "prevu": 99.04,
+    "bas": 97.31,
+    "haut": 100.58
+   },
+   {
+    "t": "11/08",
+    "reel": 99.32,
+    "prevu": 99.22,
+    "bas": 97.64,
+    "haut": 100.82
+   },
+   {
+    "t": "12/08",
+    "reel": 99.23,
+    "prevu": 99.51,
+    "bas": 97.87,
+    "haut": 101.1
+   },
+   {
+    "t": "13/08",
+    "reel": 99.28,
+    "prevu": 99.18,
+    "bas": 97.59,
+    "haut": 100.81
+   },
+   {
+    "t": "14/08",
+    "reel": 99.27,
+    "prevu": 99.07,
+    "bas": 97.55,
+    "haut": 100.67
+   },
+   {
+    "t": "15/08",
+    "reel": 99.29,
+    "prevu": 99.54,
+    "bas": 97.97,
+    "haut": 101.14
+   },
+   {
+    "t": "16/08",
+    "reel": 99.28,
+    "prevu": 99.01,
+    "bas": 97.45,
+    "haut": 100.67
+   },
+   {
+    "t": "17/08",
+    "reel": 99.97,
+    "prevu": 99.12,
+    "bas": 97.57,
+    "haut": 100.78
+   },
+   {
+    "t": "18/08",
+    "reel": null,
+    "prevu": 99.3,
+    "bas": 97.64,
+    "haut": 100.96
+   },
+   {
+    "t": "19/08",
+    "reel": null,
+    "prevu": 99.59,
+    "bas": 97.99,
+    "haut": 101.36
+   },
+   {
+    "t": "20/08",
+    "reel": null,
+    "prevu": 99.26,
+    "bas": 97.62,
+    "haut": 100.95
+   },
+   {
+    "t": "21/08",
+    "reel": null,
+    "prevu": 99.15,
+    "bas": 97.51,
+    "haut": 100.83
+   },
+   {
+    "t": "22/08",
+    "reel": null,
+    "prevu": 99.62,
+    "bas": 98.0,
+    "haut": 101.25
+   },
+   {
+    "t": "23/08",
+    "reel": null,
+    "prevu": 99.09,
+    "bas": 97.3,
+    "haut": 100.73
+   },
+   {
+    "t": "24/08",
+    "reel": null,
+    "prevu": 99.2,
+    "bas": 97.56,
+    "haut": 100.8
+   }
+  ]
+ },
+ "anomalies": [
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "2G",
+   "site": "SITE_005",
+   "kpi": "congestion_2g",
+   "msg": "Anomalie détectée — congestion_2g",
+   "time": "16/08 22:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "2G",
+   "site": "SITE_001",
+   "kpi": "disponibilite_2g",
+   "msg": "Anomalie détectée — disponibilite_2g",
+   "time": "15/08 05:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "2G",
+   "site": "SITE_001",
+   "kpi": "disponibilite_2g",
+   "msg": "Anomalie détectée — disponibilite_2g",
+   "time": "14/08 10:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "3G",
+   "site": "SITE_004",
+   "kpi": "call_setup_cs_3g",
+   "msg": "Anomalie détectée — call_setup_cs_3g",
+   "time": "16/08 12:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "3G",
+   "site": "SITE_004",
+   "kpi": "call_drop_cs_3g",
+   "msg": "Anomalie détectée — call_drop_cs_3g",
+   "time": "16/08 09:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "3G",
+   "site": "SITE_003",
+   "kpi": "call_setup_cs_3g",
+   "msg": "Anomalie détectée — call_setup_cs_3g",
+   "time": "16/08 06:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "4G",
+   "site": "SITE_005",
+   "kpi": "sssr_pct_4g",
+   "msg": "Anomalie détectée — sssr_pct_4g",
+   "time": "16/08 20:00"
+  },
+  {
+   "sev": "Critique",
+   "color": "#F04E5E",
+   "domaine": "4G",
+   "site": "SITE_003",
+   "kpi": "drop_pct_4g",
+   "msg": "Anomalie détectée — drop_pct_4g",
+   "time": "16/08 10:00"
+  }
+ ],
+ "summary": [
+  {
+   "domaine": "Accès",
+   "critiques": 199
+  },
+  {
+   "domaine": "2G",
+   "critiques": 139
+  },
+  {
+   "domaine": "3G",
+   "critiques": 164
+  },
+  {
+   "domaine": "4G",
+   "critiques": 89
+  },
+  {
+   "domaine": "Fibre",
+   "critiques": 8
+  },
+  {
+   "domaine": "Clientèle",
+   "critiques": 9
+  }
+ ],
+ "totalCritiques": 608
+}
