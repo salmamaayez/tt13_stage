@@ -439,7 +439,7 @@ Aucune donnée réelle ou confidentielle ne doit être publiée dans le reposito
 **Projet :** PFE-25-26-TT-13
 **Sujet :** Supervision des réseaux d'accès
 **Entreprise :** Tunisie Télécom
-**Type :** Projet de Fin d'Études
+**Type :** Projet d'été
 
 ---
 
